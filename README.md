@@ -1,2 +1,2 @@
-# Levenberg_Marquardt_algorithm
+# Levenberg Marquardt algorithm
 Bachelor degree thesis of Numerical Analysis
