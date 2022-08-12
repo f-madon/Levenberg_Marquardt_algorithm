@@ -1,5 +1,5 @@
 # The Levenberg-Marquardt algorithm and the Deep Learning
-Bachelor degree thesis of Numerical Analysis
+Bachelor degree thesis in Mathematics. The thesis is of Numerical Analysis.
 
 <p align="center">
   <a href="#abstract">Abstract &nbsp;</a>
