@@ -1,25 +1,25 @@
-# Levenberg Marquardt algorithm
+# The Levenberg-Marquardt algorithm and the Deep Learning
 Bachelor degree thesis of Numerical Analysis
 
-
-<p align = "left">
-  <a href="http://datascience.disco.unimib.it/it/"><img src ="https://github.com/emanuelaelli/Data_Visualization/blob/main/images/background.jpeg" width = "100%"></a>
-</p>
-<!-- <p align="center">
-  <img src="https://github.com/emanuelaelli/Data_Visualization/blob/main/images/Loading.png" width="25%">
-</p> -->
-  <h6 align="center">a Data Visualization Project</h6>
 <p align="center">
-  <a href="#overview">Overview &nbsp;</a> |
-  <a href="#aboutus">&nbsp; About us &nbsp;</a>
-</p>
+  <a href="#abstract">Abstract &nbsp;</a>
 
-<a name="overview"></a>
-## &#9741; &nbsp; Overview
+<a name="abstract"></a>
+## &#9741; &nbsp; Abstract
 
-This university project is aimed at creating visualizations (interactive and static) to visually represent the data within a dataset.
+The main argument of this thesis is the Levenberg-Marquardt algorithm (LM) in relation to its applications to neural networks. LM is an iterative algorithm, used for the solution of free optimization problems in the form of nonlinear least squares. This method usually finds applications in problems concerning the construction of a curve, or a function, which has the best correspondence with previously assigned
+points.
 
-The phases carried out for this project are: cleaning the dataset, creating the views, heuristic evaluation of the views, evaluation (after the improvements made in the previous phase) through a questionnaire.
+In general, the algorithm aims to minimize the sum of squares
+
+<img src="https://render.githubusercontent.com/render/math?math=F(x)=∥f(x)∥^{2}=f^{T}(x)f(x)">
+
+
+
+
+
+
+
 
 The tools used are: python, tableau, figma.
 
