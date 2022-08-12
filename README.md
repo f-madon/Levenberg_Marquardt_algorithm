@@ -12,7 +12,7 @@ points.
 
 In general, the algorithm aims to minimize the sum of squares
 
-<img src="https://render.githubusercontent.com/render/math?math=F(x)=∥f(x)∥^{2}=f^{T}(x)f(x)">
+<img src="https://render.githubusercontent.com/render/math?math=F(x) = ∥f(x)∥^{2} = f^{T}(x)f(x)">
 
 
 
