@@ -14,4 +14,4 @@ This algorithm is very interesting as it can be interpreted as a supervised trai
 
 The thesis is organized as follows. In chapter 1 the main topic covered is Deep Learning, how it works, its foundations and applications. Chapter 2 introduces, in more detail, artificial neural networks from a mathematical point of view. This part therefore explores the concept of activation function and presents the general structure of a network, with the help of an example. The third chapter illustrates in detail the Levenberg-Marquardt algorithm, starts with a general introduction and then goes on to analyze the method from a theoretical point of view, demonstrating its global convergence properties, under appropriate hypotheses. In this chapter there is also a list of key points of how LM operates in general. Finally, chapter 4 consists of numerical tests of the method of a nonlinear regression model problem (using the MATLAB language).
 
-The code can be found in the folder called code
+The code can be found in the folder <a href="https://github.com/f-madon/Levenberg_Marquardt_algorithm/tree/main/code">code</a>.
