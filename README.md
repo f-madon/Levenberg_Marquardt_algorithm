@@ -10,23 +10,8 @@ Bachelor degree thesis of Numerical Analysis
 The main argument of this thesis is the Levenberg-Marquardt algorithm (LM) in relation to its applications to neural networks. LM is an iterative algorithm, used for the solution of free optimization problems in the form of nonlinear least squares. This method usually finds applications in problems concerning the construction of a curve, or a function, which has the best correspondence with previously assigned
 points.
 
-In general, the algorithm aims to minimize the sum of squares
+This algorithm is very interesting as it can be interpreted as a supervised training method; it is very efficient for training small artificial neural networks.
 
-<img src="https://render.githubusercontent.com/render/math?math=F(x) = ∥f(x)∥^{2} = f^{T}(x)f(x)">
+The thesis is organized as follows. In chapter 1 the main topic covered is Deep Learning, how it works, its foundations and applications. Chapter 2 introduces, in more detail, artificial neural networks from a mathematical point of view. This part therefore explores the concept of activation function and presents the general structure of a network, with the help of an example. The third chapter illustrates in detail the Levenberg-Marquardt algorithm, starts with a general introduction and then goes on to analyze the method from a theoretical point of view, demonstrating its global convergence properties, under appropriate hypotheses. In this chapter there is also a list of key points of how LM operates in general. Finally, chapter 4 consists of numerical tests of the method of a nonlinear regression model problem (using the MATLAB language).
 
-
-
-
-
-
-
-
-The tools used are: python, tableau, figma.
-
-The data was taken from <a href="https://www.kaggle.com/">Kaggle</a> for educational purposes.
-
-You can see the views via the following links:
-
-  • https://sites.google.com/view/progetto-dataviz/correlogramma
-
-  • https://public.tableau.com/views/Viz_Felicit/Dashboard2?:language=it-IT&:display_count=n&:origin=viz_share_link&:device=desktop
+The code can be found in the folder called code
